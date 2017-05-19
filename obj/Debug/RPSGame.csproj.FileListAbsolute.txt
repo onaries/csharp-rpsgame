@@ -1,0 +1,6 @@
+c:\users\nanodir\documents\visual studio 2017\Projects\RPSGame\bin\Debug\RPSGame.exe.config
+c:\users\nanodir\documents\visual studio 2017\Projects\RPSGame\bin\Debug\RPSGame.exe
+c:\users\nanodir\documents\visual studio 2017\Projects\RPSGame\bin\Debug\RPSGame.pdb
+c:\users\nanodir\documents\visual studio 2017\Projects\RPSGame\obj\Debug\RPSGame.csprojResolveAssemblyReference.cache
+c:\users\nanodir\documents\visual studio 2017\Projects\RPSGame\obj\Debug\RPSGame.exe
+c:\users\nanodir\documents\visual studio 2017\Projects\RPSGame\obj\Debug\RPSGame.pdb
